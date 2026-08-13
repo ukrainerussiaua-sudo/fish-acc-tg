@@ -1,0 +1,20 @@
+# Telegram bot framework
+aiogram==3.13.1
+
+# Telegram client (работа с сессиями)
+telethon==1.36.0
+
+# Конвертация tdata → session
+opentele==1.15.1
+
+# Парсинг номеров телефонов
+phonenumbers==8.13.48
+
+# Справочник стран
+pycountry==24.6.1
+
+# Планировщик задач (автопроверки)
+APScheduler==3.10.4
+
+# Для работы aiogram с webhook (не обязательно при polling)
+aiohttp==3.10.5
